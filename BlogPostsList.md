@@ -1,5 +1,4 @@
-# ShaheensBlogs
-Links to Blog posts
+# Links to Blog posts
 
 [Show me the ROI: Classification Metrics for Business](https://towardsdatascience.com/show-me-the-roi-classification-metrics-for-business-9fd00389846b?source=friends_link&sk=3ba1cd1c16b7fabd11f03f25eb1596e7)
 
