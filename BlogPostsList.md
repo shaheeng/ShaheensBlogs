@@ -8,7 +8,7 @@
 
 [Is your Classification Model making lucky guesses?](https://blog.revolutionanalytics.com/2016/03/classification-models.html)
 
-[Demystifying Docker For Data Scientists – A Docker Tutorial For Your Deep Learning Projects](https://docs.microsoft.com/en-us/archive/blogs/machinelearning/demystifying-docker-for-data-scientists-a-docker-tutorial-for-your-deep-learning-projects)  [also posted here](http://ilikesqldata.com/demystifying-docker-for-data-scientists-a-docker-tutorial-for-your-deep-learning-projects/)
+[Demystifying Docker For Data Scientists – A Docker Tutorial For Your Deep Learning Projects](https://docs.microsoft.com/en-us/archive/blogs/machinelearning/demystifying-docker-for-data-scientists-a-docker-tutorial-for-your-deep-learning-projects)   Also posted [here](http://ilikesqldata.com/demystifying-docker-for-data-scientists-a-docker-tutorial-for-your-deep-learning-projects/)
 
 [Evaluating Failure Prediction Models for Predictive Maintenance](https://docs.microsoft.com/en-us/archive/blogs/machinelearning/evaluating-failure-prediction-models-for-predictive-maintenance)
 
