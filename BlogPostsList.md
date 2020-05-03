@@ -16,9 +16,9 @@
 
 [Predicting Wine Quality with Azure ML and R](https://blog.revolutionanalytics.com/2016/04/predicting-wine-quality.html)
 
-[Cleveland Clinic to Identify At-Risk Patients in ICU using Cortana Intelligence](https://blogs.technet.microsoft.com/machinelearning/2016/09/26/cleveland-clinic-to-identify-at-risk-patients-in-icu-using-cortana-intelligence-suite/)
+[Cleveland Clinic to Identify At-Risk Patients in ICU using Cortana Intelligence](https://docs.microsoft.com/en-us/archive/blogs/machinelearning/cleveland-clinic-to-identify-at-risk-patients-in-icu-using-cortana-intelligence-suite)
 
-[Healthcare Analytics with Cortana Intelligence](https://blogs.technet.microsoft.com/machinelearning/2016/10/27/healthcare-analytics-with-cortana-intelligence/)
+[Healthcare Analytics with Cortana Intelligence](https://docs.microsoft.com/en-us/archive/blogs/machinelearning/healthcare-analytics-with-cortana-intelligence)
 
 [Training a neural network to play Hangman without a dictionary](https://azure.microsoft.com/en-us/blog/hangman/)
 
