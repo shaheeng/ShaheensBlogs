@@ -1,5 +1,11 @@
 # Links to Blog posts
 
+[AI Blindspots — Part I    Shared Responsibility]( https://medium.com/@shaheen2007/ai-blindspots-part-i-shared-responsibility-5e05824c19b4?source=friends_link&sk=62d5aa86212f9bc06981053463dae886)
+
+[AI Blindspots — Part II   Feeling Empowered]( https://shaheen2007.medium.com/ai-blindspots-part-ii-feeling-empowered-529ba079e945?source=friends_link&sk=c6c2c959491dc80434da69990a43cc04)
+
+[AI Blindspots — Part III  Team Dynamics]( https://shaheen2007.medium.com/ai-blindspots-part-iii-team-dynamics-e0b6b6b9b79a?source=friends_link&sk=da6148d24963e7f3b6ea07f3411432de)
+
 [Show me the ROI: Classification Metrics for Business](https://towardsdatascience.com/show-me-the-roi-classification-metrics-for-business-9fd00389846b?source=friends_link&sk=3ba1cd1c16b7fabd11f03f25eb1596e7)
 
 [Profiling Big Data in distributed environment using Spark: A Pyspark Data Primer for Machine Learning](https://towardsdatascience.com/profiling-big-data-in-distributed-environment-using-spark-a-pyspark-data-primer-for-machine-78c52d0ce45?source=friends_link&sk=0f18c07e06e067bcd671bd885e3c7e6f)
